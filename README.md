@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**TamHarris/TamHarris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tam, a coder specializing in C# and JavaScript from 🇨🇦 Canada 
 
-Here are some ideas to get you started:
+## Table of Contents
+- [About Me](#About-Me)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📓 About Me 
+
+<ul>
+  <li>Honours in Interactive Arts & Sciences</li>
+  <li>Loves to tackle complex problems and learning from the experience</li>
+  <li>Adept in designing and implimenting interlocking systems</li>
+  <li>Skilled at team management 📋 </li>
+</ul> 
+
+
+  
