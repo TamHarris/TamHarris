@@ -14,7 +14,7 @@ I am currently the head programmer for [A.R.F Squad](https://arfsquad.cfdh.ca/) 
 
 ## 🧰 Skills 
 
-<img src="https://github.com/user-attachments/assets/725e3251-d811-48d3-ab56-8e77f614699d" alt="C#" width="50" height="50" />  <img src="https://github.com/user-attachments/assets/506f8063-c373-4e4e-bf5e-20420dc469fa" alt="JavaScript" width="50" height="50" /> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="50" height="50" /> <img src="https://github.com/user-attachments/assets/70eeaa43-d6c8-4ec6-96cf-93d1906903f2" alt="Visual Studio" width="50" height="50" /> <img src="https://github.com/user-attachments/assets/39ff66d5-e49c-49f2-b4cf-e032a757ad4f" alt="React" width="50" height="50" />
+<img src="https://github.com/user-attachments/assets/725e3251-d811-48d3-ab56-8e77f614699d" alt="C#" width="60" height="60" />  <img src="https://github.com/user-attachments/assets/506f8063-c373-4e4e-bf5e-20420dc469fa" alt="JavaScript" width="60" height="60" /> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="60" height="60" /> <img src="https://github.com/user-attachments/assets/70eeaa43-d6c8-4ec6-96cf-93d1906903f2" alt="Visual Studio" width="60" height="60" /> <img src="https://github.com/user-attachments/assets/39ff66d5-e49c-49f2-b4cf-e032a757ad4f" alt="React" width="60" height="60" />
 
 
 
