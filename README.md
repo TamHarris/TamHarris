@@ -8,8 +8,8 @@ I'm Tam, a coder specializing in C#and JavaScript from 🇨🇦 Canada
   <li>Skilled at team management 📋 </li>
 </ul> 
 
-## 💾 Current Project
-I am currently the head programmer for [A.R.F Squad](https://arfsquad.cfdh.ca/) a 2-4 player party game designed to be a mix of head to head snake and aerial jousting. It is in active development for the LevelUp Showcase in Toronto. If you are interested come check it out on April 12th.
+## 💾 Most Recent Project
+I was the head programmer for [A.R.F Squad](https://arfsquad.cfdh.ca/) a 2-4 player party game designed to be a mix of head to head snake and aerial jousting. It was developed over a semester with a small 12 person team for the Level Up Showcase in Toronto.
 ![arflogofianl_ 1](https://github.com/user-attachments/assets/a025083f-159f-45d8-b397-35b552ebd967)
 
 ## 🧰 Skills 
